@@ -10,7 +10,7 @@ a {
 }
 
 a:visited {
-  color: gray;
+  color: rgb(201, 201, 201);
 }
 
 a:hover {
