@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  p, a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  a:visited {
+    color: purple;
+  }
+  
+  a {
+    text-decoration: underline;
+  }
+  
+  a:hover {
+    background-color: red;
+    color: white;
+  }
