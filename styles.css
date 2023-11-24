@@ -1,1 +1,23 @@
-body{background-color:white;margin:0;padding:10px;box-sizing:border-box;font-family:'Roboto',sans-serif}p,a{margin:0;padding:0;text-decoration:none;color:blue}a:visited{color:purple}a{text-decoration:underline}a:hover{background-color:red;color:white}
+body {
+    background-color: rgb(255, 191, 0);
+    color: black;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  a {
+    color: black;
+    text-decoration: underline dotted;
+  }
+  
+  a:hover {
+    color: white;
+    background-color: #ff0000;
+  }
+  
+  a:visited {
+    color: rgb(82, 82, 82);
+  }
+  
+  a:visited:hover {
+    color: white;
+  }
