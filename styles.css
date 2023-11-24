@@ -11,13 +11,13 @@ body {
   
   a:hover {
     color: white;
-    background-color: #ff0000;
+    background-color: rgb(52, 199, 199);
   }
   
   a:visited {
     color: rgb(82, 82, 82);
   }
-  
+
   a:visited:hover {
     color: white;
   }
