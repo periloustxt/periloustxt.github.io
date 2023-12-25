@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(33, 33, 33);
+    color: white;
+    font-family: "Andale Mono", monospace;
+    padding-left: 0.25in;
+  }
+
+  a {
+    color: rgb(0, 190, 253);
+    text-decoration: none;
+    font-weight: bold;
+  }
