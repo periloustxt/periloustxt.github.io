@@ -14,3 +14,7 @@ img {
     max-width: 100%;
     height: auto;
   }
+
+.text-container {
+    max-width: 5in;
+  }
