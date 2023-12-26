@@ -2,6 +2,7 @@ body {
     background-color: rgb(33, 33, 33);
     color: white;
     font-family: "Andale Mono", monospace;
+    font-size: 15
 
     
 }
@@ -19,4 +20,18 @@ img {
 
 .text-container {
   max-width: 85%;
+}
+
+code {
+  color: white (255, 255, 255);
+  background-color: black;
+  font-size: 85%
+  
+}
+
+blockquote {
+  background-color: #000000;
+  color: white;
+  padding: 10px;
+  font-size: 85%
 }
