@@ -1,7 +1,8 @@
 body {
     background-color: rgb(33, 33, 33);
     color: white;
-    font-family: "Andale Mono"
+    font-family: "Andale Mono", monospace;
+
     
 }
 
@@ -17,5 +18,5 @@ img {
   }
 
 .text-container {
-    max-width: 5in;
-  }
+  max-width: 85%;
+}
