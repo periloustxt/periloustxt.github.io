@@ -18,10 +18,6 @@ img {
     height: auto;
   }
 
-.text-container {
-  max-width: 85%;
-}
-
 code {
   color: white (255, 255, 255);
   background-color: black;
