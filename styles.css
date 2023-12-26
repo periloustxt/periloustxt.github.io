@@ -1,8 +1,9 @@
 body {
     background-color: rgb(33, 33, 33);
     color: white;
-    font-family: "Andale Mono", monospace;
-  }
+    font-family: "Andale Mono"
+    
+}
 
   a {
     color: rgb(0, 190, 253);
